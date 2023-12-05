@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDuXLMgEyKp8vzjVb+di+kW7BWUxBlROLc31jfXp08smvlMoO3wRTAdhAE4VJz1Fr/wN7i6g8hjpmTIRnZhngg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GM\\Desktop\\NET MVC PROJECT\\ERPOodoSoftware\\ERPOodoSoftware\\ERPOodoSoftware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GM\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
